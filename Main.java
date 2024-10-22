@@ -21,8 +21,11 @@ to the screen, and it is amazing */
       String lastName = "Doe";
       String fullName = firstName + lastName;
       System.out.println(fullName); 
-      int x = 5;
-      int y = 6;
-      System.out.println(x + y); // Print the value of x + y  
+      // int x = 5;
+      // int y = 6;
+      // System.out.println(x + y); // Print the value of x + y  
+      int x, y, z;
+      x = y = z = 50;
+      System.out.println(x + y + z);
     }
   }
