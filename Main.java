@@ -7,6 +7,7 @@ to the screen, and it is amazing */
       System.out.println(3 + 3);
       String name = "John";
       System.out.println("Hello " + name);
+      System.out.println("I am learning Java.");
       int myNum = 15;
       myNum = 20;  // myNum is now 20
       System.out.println(myNum);
