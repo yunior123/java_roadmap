@@ -28,5 +28,18 @@ to the screen, and it is amazing */
       int x, y, z;
       x = y = z = 50;
       System.out.println(x + y + z);
+
+      String studentName = "John Doe";
+      int studentID = 15;
+      int studentAge = 23;
+      float studentFee = 75.25f;
+      char studentGrade = 'B';
+          
+      // Print variables
+      System.out.println("Student name: " + studentName);
+      System.out.println("Student id: " + studentID);
+      System.out.println("Student age: " + studentAge);
+      System.out.println("Student fee: " + studentFee);
+      System.out.println("Student grade: " + studentGrade);
     }
   }
